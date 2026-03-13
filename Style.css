@@ -1,0 +1,16 @@
+body {
+  background: #f4f4f4;
+  font-family: Arial;
+}
+.todo-box {
+  width: 300px;
+  margin: 100px auto;
+  background: #fff;
+  padding: 20px;
+}
+li {
+  cursor: pointer;
+}
+.done {
+  text-decoration: line-through;
+}
